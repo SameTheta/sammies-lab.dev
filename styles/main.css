@@ -1,0 +1,19 @@
+.main-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: plum;
+}
+
+table, th, td {
+    table-layout: fixed;
+    border: 1px solid black;
+    width: 850px;
+}
+
+h1, h2, h3, p {
+    margin: 20px;
+}
